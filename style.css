@@ -1,0 +1,102 @@
+body{
+    font-family:lato;
+    background-image: url('image/Homepage.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div{
+background: #FFFFFF61;
+
+width: 589px;
+height: 883px;
+top: 70px;
+left: 23px;
+padding: 94px, 122px, 95px, 121px;
+border-radius: 8px;
+position: absolute;
+}
+form{
+    width: 346px;
+    height: 694px;
+    top: 94px;
+    left: 121px;
+    position: absolute;
+
+}
+
+h2{
+    width: 194px;
+    height: 32px;font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #101010;
+}
+
+label{
+    width: 91px;
+height: 24px;
+top: 37px;
+left: 1px;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+input{
+    width: 345px;
+    height: 48px;
+    top: 69px;
+    left: 1px;
+    border-radius: 8px;
+    border: 1px;background: linear-gradient(0deg, #E0DEDE, #E0DEDE),
+    linear-gradient(0deg, #FCFCFC, #FCFCFC);border: 1px solid #E0DEDE
+}
+
+.reg{
+    width: 345px;
+    height: 48px;
+    top: 524px;
+    left: 1px;
+    border-radius: 8px;background: #6DA01E;
+}
+
+.google{
+    width: 345px;
+    height: 48px;
+    top: 596px;
+    left: 1px;
+    padding: 12px, 73px, 12px, 73px;
+    border-radius: 8px;
+    border: 1px;
+    color: #6DA01E;
+    border: 1px solid #6DA01E
+}
+
+.log{
+color: #6DA01E;
+
+}
+
+p{
+    width: 211px;
+    height: 24px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+    
+
+}
